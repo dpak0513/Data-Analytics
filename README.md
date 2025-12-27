@@ -1,35 +1,35 @@
-# Data-Analytics
-This repository features end-to-end data analytics projects showcasing workflows from Python data preprocessing, PostgreSQL storage and querying, to interactive Power BI visualizations—demonstrating practical skills in transforming raw data into actionable business insights with scalable, efficient solutions.
-Project Overview
+# Data Analytics Projects
 
-The projects include:
+This repository contains data analytics projects focused on extracting actionable insights from raw datasets through structured exploration, visualization, and interpretation.
 
-E-commerce data analytics
+## Overview
+The projects emphasize:
+- Exploratory Data Analysis (EDA) to understand data distributions and patterns
+- Data cleaning, preprocessing, and transformation
+- Statistical analysis to support data-driven decisions
+- Visual storytelling using charts, dashboards, and reports
 
-FastF1 racing data analysis
+## Key Skills Demonstrated
+- Identifying trends, anomalies, and relationships in data
+- Handling missing values, outliers, and inconsistent records
+- Feature-level analysis to support business insights
+- Communicating findings through clear and effective visualizations
 
-Automobile insurance data insights
+## Tech Stack
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn, Plotly  
+- Power BI  
 
-Smartwatch healthcare monitoring data 
+## Example Analyses
+- Customer behavior and segmentation analysis  
+- Feature correlation and trend analysis  
+- KPI-driven exploratory dashboards for business reporting  
 
-Spotify data analysis
+## Outcomes
+- Delivered actionable insights through structured EDA and visual analysis
+- Built reusable and scalable data analysis workflows
+- Strengthened data-driven decision-making and reporting skills
 
-Taxi trip data analytics
-
-Telecom data analysis
-
-Each project is built using Python for data processing and integration, PostgreSQL for database management, and Power BI for data visualization and reporting. These projects showcase skills in data engineering, analytics, and business intelligence by transforming raw data into actionable insights.
-
-The projects highlight the ability to:
-
-Collect, clean, and process large datasets
-
-Design and manage relational databases
-
-Develop end-to-end analytics pipelines
-
-Build interactive and insightful dashboards
-
-Derive meaningful insights to support decision-making
-
-This collection demonstrates practical experience in applying Python, database management, and business intelligence tools to real-world data problems.
+## What This Demonstrates
+Strong analytical thinking and the ability to transform raw data into meaningful insights that support business and decision-making use cases.
